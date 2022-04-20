@@ -24,7 +24,7 @@
     background-color: #000000c7;
 }
 
-.sidebar-menu h4 {
+.sidebar-content h4 {
     color:  aliceblue;
     font-size: 24px;
     text-align: center;
@@ -32,13 +32,13 @@
     margin-bottom: 20px;
 }
 
-.sidebar-menu .title {
+.sidebar-content .title {
     margin-left: 0px;
     color: yellow;
     font-size: 24px;
 }
 
-.sidebar-menu ul li {
+.sidebar-content ul li {
     padding-left: 15px;
     padding-top: 15px;
     margin-left: 8px;
@@ -57,3 +57,12 @@
     margin-left: 5px;
 }
 
+.sidebar-content li:hover {
+    background-color: #000000c7;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.sidebar-content li:hover a {
+    color: yellow;
+}
