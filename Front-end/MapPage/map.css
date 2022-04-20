@@ -6,4 +6,54 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.map-page {
+    width: auto;
+    display: flex;
+    margin: auto;
+    background-color: #e2e2e282;
+}
+
+.sidebar-menu {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 200px;
+    height: 720px;
+    margin-left: 25px;
+    border: 1px solid;
+    border-radius: 30px;
+    background-color: #000000c7;
+}
+
+.sidebar-menu h4 {
+    color:  aliceblue;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.sidebar-menu .title {
+    margin-left: 0px;
+    color: yellow;
+    font-size: 24px;
+}
+
+.sidebar-menu ul li {
+    padding-left: 15px;
+    padding-top: 15px;
+    margin-left: 8px;
+    height: 30px;
+    width: 140px;
+    list-style: none;
+}
+
+.sidebar-menu a {
+    text-decoration: none;
+    color:  #ffffffd1;
+}
+
+.sidebar-menu span {
+    font-size: 14px;
+    margin-left: 5px;
+}
 
