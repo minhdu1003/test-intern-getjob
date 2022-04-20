@@ -16,8 +16,8 @@
 .sidebar-menu {
     margin-top: 15px;
     margin-bottom: 20px;
-    width: 170px;
-    height: 720px;
+    width: 200px;
+    height: 800px;
     margin-left: 25px;
     border: 1px solid;
     border-radius: 30px;
@@ -39,7 +39,7 @@
 }
 
 .sidebar-content ul li {
-    padding-left: 10px;
+    padding-left: 15px;
     padding-top: 15px;
     margin-left: 8px;
     height: 30px;
