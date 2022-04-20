@@ -232,3 +232,31 @@ select{
     border: 2px solid yellow;
     border-radius: 10px; 
 }
+
+.button {
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    width: 88%;
+    margin-left: 50px;
+}
+
+.button span {
+    color:#222222c4;
+}
+
+.button button {
+    font-weight: bold;
+    width: 120px;
+    height: 40px;
+    margin-left: 30px;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: #e2e2e2b3;
+    box-shadow: 2px 2px 2px #cbcbcb;
+}
+
+.button button:hover {
+    background-color: yellow;
+    cursor:pointer;
+}
